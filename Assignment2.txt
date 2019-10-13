@@ -3,7 +3,7 @@
 <style>
 body {
        background-color: #d2b48c;
-       font-size: 17px;
+       font-size: 18px;
       
     
        background-size: cover;
@@ -11,7 +11,8 @@ body {
        margin-right: 20%;
        padding: 10px 10px 10px 10px;
        font-family: sans-serif;
-}
+}
+
 .header h1 {
     font-style: italic;
     color: #CC0000;
@@ -161,8 +162,8 @@ p {
   <img src="subah.jpg" alt="Subah-e-Benaras" style="width:100%;">
   <div class="content">
      <h2>Subah-e-Benaras</h2>
-     <p> The ghat is now the venue of a unique cultural and spiritual event — Subah-e-Banaras — that draws large numbers of visitors every morning.
-      “It was on November 24 last year that Subah-e-Banaras was started. </p>
+     <p> The ghat is now the venue of a unique cultural and spiritual event â€” Subah-e-Banaras â€” that draws large numbers of visitors every morning.
+      â€œIt was on November 24 last year that Subah-e-Banaras was started. </p>
   </div>
 </div>
 
