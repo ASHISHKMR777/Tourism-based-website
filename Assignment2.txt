@@ -20,7 +20,7 @@ body {
     text-decoration: underline;
 }
 .header img {
-    WIDTH: 200PX;
+    WIDTH: 222PX;
     height: 100px;
     float: left;
 }
