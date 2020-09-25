@@ -168,7 +168,7 @@ p {
 </div>
 
 <div class="transbox">
- <p>Ghats in Varanasi are riverfront steps leading to the banks of the River Gangas. 
+ <p>Ghats in Varanasi are riverfront steps leading to the banks of the River Ganga. 
 The city has 88 ghats. Most of the ghats are bathing and puja ceremony ghats, while two ghats are used exclusively as cremation sites.
 </p>
 
